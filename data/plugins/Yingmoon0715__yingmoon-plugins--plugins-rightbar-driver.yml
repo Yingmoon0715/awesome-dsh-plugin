@@ -1,0 +1,6 @@
+url: https://github.com/Yingmoon0715/yingmoon-plugins/tree/main/plugins/rightbar-driver
+name: Yingmoon0715/yingmoon-plugins#plugins/rightbar-driver
+category: browser
+description:
+  en: 'Drives the DSH right-sidebar built-in browser from the agent side with 35 tools: open, navigate, read page text and interactive elements, accessibility tree, click, fill, select, check, key press, scroll, screenshot, full-page screenshot, PDF, markdown export, scrape to JSON, download, cookies, and per-step operation records with replay and action whitelisting.'
+  zh: '从 agent 侧驱动 DSH 右推栏内置浏览器，共 35 个工具：打开、导航、读取页面正文与可交互元素、无障碍树、点击、填字、选下拉框、勾选、按键、滚动、截图、整页截图、导出 PDF、导出 markdown、按选择器提取 JSON、下载文件、存取 Cookie，以及带序号的操作记录、重放与动作白名单。'
